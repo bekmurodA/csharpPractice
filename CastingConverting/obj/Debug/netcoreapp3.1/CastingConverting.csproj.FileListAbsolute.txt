@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.exe
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.deps.json
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.json
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.dll
+D:\bekmurod\csharp\practice\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.pdb
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.dll
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.pdb
+D:\bekmurod\csharp\practice\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.genruntimeconfig.cache

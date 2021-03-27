@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.exe
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.deps.json
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.runtimeconfig.json
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.dll
+D:\bekmurod\csharp\practice\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.pdb
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.dll
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.pdb
+D:\bekmurod\csharp\practice\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.genruntimeconfig.cache
