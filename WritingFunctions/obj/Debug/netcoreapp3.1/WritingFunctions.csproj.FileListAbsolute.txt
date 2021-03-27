@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\bekmurod\csharp\practice\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+D:\bekmurod\csharp\practice\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.genruntimeconfig.cache

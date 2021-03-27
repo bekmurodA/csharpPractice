@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.exe
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.deps.json
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.json
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.dll
+D:\bekmurod\csharp\practice\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.pdb
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.dll
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
+D:\bekmurod\csharp\practice\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.genruntimeconfig.cache

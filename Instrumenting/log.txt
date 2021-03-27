@@ -1,0 +1,2 @@
+Debug says I'm listening
+Trace says I'm listening
