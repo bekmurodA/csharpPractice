@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+D:\bekmurod\csharp\practice\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+D:\bekmurod\csharp\practice\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache

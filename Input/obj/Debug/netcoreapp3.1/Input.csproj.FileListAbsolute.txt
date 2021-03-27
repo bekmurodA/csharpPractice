@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.exe
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.dll
+D:\bekmurod\csharp\practice\Input\bin\Debug\netcoreapp3.1\Input.pdb
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.dll
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.pdb
+D:\bekmurod\csharp\practice\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+D:\bekmurod\csharp\practice\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+D:\bekmurod\csharp\practice\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

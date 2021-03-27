@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+D:\bekmurod\csharp\practice\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+D:\bekmurod\csharp\practice\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.csprojAssemblyReference.cache
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.AssemblyInfoInputs.cache
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.AssemblyInfo.cs
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.csproj.CoreCompileInputs.cache
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.exe
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.deps.json
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.runtimeconfig.json
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.runtimeconfig.dev.json
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.dll
+D:\bekmurod\csharp\practice\KeyInput\bin\Debug\netcoreapp3.1\KeyInput.pdb
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.dll
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.pdb
+D:\bekmurod\csharp\practice\KeyInput\obj\Debug\netcoreapp3.1\KeyInput.genruntimeconfig.cache
