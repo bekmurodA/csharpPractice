@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration.deps.json
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration.dll
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/ref/Iteration.dll
+/home/bekmurod/csharp/csharpPractice/Iteration/bin/Debug/net5.0/Iteration.pdb
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.dll
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/ref/Iteration.dll
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.pdb
+/home/bekmurod/csharp/csharpPractice/Iteration/obj/Debug/net5.0/Iteration.genruntimeconfig.cache

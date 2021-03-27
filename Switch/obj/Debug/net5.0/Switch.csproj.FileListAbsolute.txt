@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch.deps.json
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch.dll
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/ref/Switch.dll
+/home/bekmurod/csharp/csharpPractice/Switch/bin/Debug/net5.0/Switch.pdb
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.dll
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/ref/Switch.dll
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.pdb
+/home/bekmurod/csharp/csharpPractice/Switch/obj/Debug/net5.0/Switch.genruntimeconfig.cache
