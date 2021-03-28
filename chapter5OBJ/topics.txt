@@ -1,0 +1,14 @@
+# programming guide): https://docs.microsoft.com/en-us/dotnet/
+• Access modifiers (C# programming guide): https://docs.microsoft.com/en-us/
+• Enumeration types (C# reference): https://docs.microsoft.com/en-us/dotnet/
+• Constructors (C# programming guide): https://docs.microsoft.com/en-us/dotnet/
+•
+•
+articles/csharp/programming-guide/classes-and-structs/fields
+dotnet/articles/csharp/language-reference/keywords/access-modifiers
+csharp/language-reference/builtin-types/enum
+articles/csharp/programming-guide/classes-and-structs/constructors
+Methods (C# programming guide): https://docs.microsoft.com/en-us/dotnet/
+articles/csharp/methods
+Properties (C# programming guide): https://docs.microsoft.com/en-us/dotnet/
+articles/csharp/properties

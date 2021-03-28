@@ -1,0 +1,11 @@
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.deps.json
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.dll
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/bin/Debug/net5.0/ref/PacktLibrary9.dll
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/bin/Debug/net5.0/PacktLibrary9.pdb
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.dll
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/ref/PacktLibrary9.dll
+/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/Debug/net5.0/PacktLibrary9.pdb

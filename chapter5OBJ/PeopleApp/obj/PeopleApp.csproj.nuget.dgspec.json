@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PeopleApp/PeopleApp.csproj": {}
+  },
+  "projects": {
+    "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/PacktLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/PacktLibrary.csproj",
+        "projectName": "PacktLibrary",
+        "projectPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/PacktLibrary.csproj",
+        "packagesPath": "/home/bekmurod/.nuget/packages/",
+        "outputPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bekmurod/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/bekmurod/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/PacktLibrary9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/PacktLibrary9.csproj",
+        "projectName": "PacktLibrary9",
+        "projectPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/PacktLibrary9.csproj",
+        "packagesPath": "/home/bekmurod/.nuget/packages/",
+        "outputPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bekmurod/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/bekmurod/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PeopleApp/PeopleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PeopleApp/PeopleApp.csproj",
+        "projectName": "PeopleApp",
+        "projectPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PeopleApp/PeopleApp.csproj",
+        "packagesPath": "/home/bekmurod/.nuget/packages/",
+        "outputPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PeopleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bekmurod/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/PacktLibrary.csproj": {
+                "projectPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary/PacktLibrary.csproj"
+              },
+              "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/PacktLibrary9.csproj": {
+                "projectPath": "/home/bekmurod/csharp/csharpPractice/chapter5OBJ/PacktLibrary9/PacktLibrary9.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/bekmurod/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
