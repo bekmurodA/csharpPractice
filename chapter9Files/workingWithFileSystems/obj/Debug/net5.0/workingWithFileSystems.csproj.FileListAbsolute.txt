@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems.deps.json
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems.dll
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/ref/workingWithFileSystems.dll
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/bin/Debug/net5.0/workingWithFileSystems.pdb
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.dll
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/ref/workingWithFileSystems.dll
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.pdb
+/home/bekmurod/csharp/csharpPractice/chapter9Files/workingWithFileSystems/obj/Debug/net5.0/workingWithFileSystems.genruntimeconfig.cache
