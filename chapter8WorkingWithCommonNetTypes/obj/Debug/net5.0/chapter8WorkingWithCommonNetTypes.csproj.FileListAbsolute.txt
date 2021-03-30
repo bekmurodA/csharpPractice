@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes.deps.json
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes.dll
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/ref/chapter8WorkingWithCommonNetTypes.dll
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/bin/Debug/net5.0/chapter8WorkingWithCommonNetTypes.pdb
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.dll
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/ref/chapter8WorkingWithCommonNetTypes.dll
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.pdb
+/home/bekmurod/csharp/csharpPractice/chapter8WorkingWithCommonNetTypes/obj/Debug/net5.0/chapter8WorkingWithCommonNetTypes.genruntimeconfig.cache

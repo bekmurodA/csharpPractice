@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource.deps.json
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource.dll
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/ref/NetworkResource.dll
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/bin/Debug/net5.0/NetworkResource.pdb
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.dll
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/ref/NetworkResource.dll
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.pdb
+/home/bekmurod/csharp/csharpPractice/Network/NetworkResource/obj/Debug/net5.0/NetworkResource.genruntimeconfig.cache

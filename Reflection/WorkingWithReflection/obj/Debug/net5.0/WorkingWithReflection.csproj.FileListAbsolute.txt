@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.deps.json
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.dll
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/ref/WorkingWithReflection.dll
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.pdb
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.dll
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/ref/WorkingWithReflection.dll
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.pdb
+/home/bekmurod/csharp/csharpPractice/Reflection/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.genruntimeconfig.cache

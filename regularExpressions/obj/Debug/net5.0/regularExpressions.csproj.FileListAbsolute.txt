@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions.deps.json
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions.dll
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/ref/regularExpressions.dll
+/home/bekmurod/csharp/csharpPractice/regularExpressions/bin/Debug/net5.0/regularExpressions.pdb
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.dll
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/ref/regularExpressions.dll
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.pdb
+/home/bekmurod/csharp/csharpPractice/regularExpressions/obj/Debug/net5.0/regularExpressions.genruntimeconfig.cache

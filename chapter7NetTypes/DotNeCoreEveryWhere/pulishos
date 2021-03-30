@@ -1,0 +1,5 @@
+dotnet publish -c Release -r osx-x64
+
+If you assume that .NET 5 is already installed on a computer:
+	dotnet publish -r win10-x64 -c Release --self-contained=false
+	/p:PublishSingleFile=true

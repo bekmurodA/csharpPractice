@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization.deps.json
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization.dll
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/ref/Internationlization.dll
+/home/bekmurod/csharp/csharpPractice/Internationlization/bin/Debug/net5.0/Internationlization.pdb
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.dll
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/ref/Internationlization.dll
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.pdb
+/home/bekmurod/csharp/csharpPractice/Internationlization/obj/Debug/net5.0/Internationlization.genruntimeconfig.cache
