@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets.deps.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/ref/linqWithSets.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/bin/Debug/net5.0/linqWithSets.pdb
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/ref/linqWithSets.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.pdb
+/home/bekmurod/csharp/csharpPractice/LINQ/linqWithSets/obj/Debug/net5.0/linqWithSets.genruntimeconfig.cache

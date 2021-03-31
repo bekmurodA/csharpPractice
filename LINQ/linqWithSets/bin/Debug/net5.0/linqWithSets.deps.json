@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "linqWithSets/1.0.0": {
+        "runtime": {
+          "linqWithSets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "linqWithSets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
