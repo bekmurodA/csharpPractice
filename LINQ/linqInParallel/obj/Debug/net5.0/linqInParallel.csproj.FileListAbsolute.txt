@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel.deps.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/ref/linqInParallel.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/bin/Debug/net5.0/linqInParallel.pdb
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/ref/linqInParallel.dll
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.pdb
+/home/bekmurod/csharp/csharpPractice/LINQ/linqInParallel/obj/Debug/net5.0/linqInParallel.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole.deps.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/ref/AsynchConsole.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/bin/Debug/net5.0/AsynchConsole.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/ref/AsynchConsole.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/AsynchConsole/obj/Debug/net5.0/AsynchConsole.genruntimeconfig.cache

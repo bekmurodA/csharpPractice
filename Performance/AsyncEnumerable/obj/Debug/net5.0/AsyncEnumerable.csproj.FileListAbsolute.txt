@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.deps.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/ref/AsyncEnumerable.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/ref/AsyncEnumerable.dll
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.genruntimeconfig.cache

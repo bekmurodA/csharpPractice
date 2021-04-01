@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.deps.json
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.genruntimeconfig.cache

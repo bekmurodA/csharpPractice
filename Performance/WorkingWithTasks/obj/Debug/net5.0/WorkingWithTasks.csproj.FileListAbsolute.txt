@@ -1,0 +1,16 @@
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.deps.json
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.json
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.dev.json
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.genruntimeconfig.cache

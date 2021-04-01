@@ -1,0 +1,12 @@
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/bin/Debug/net5.0/MonitoringLib.deps.json
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/bin/Debug/net5.0/MonitoringLib.dll
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/bin/Debug/net5.0/ref/MonitoringLib.dll
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/bin/Debug/net5.0/MonitoringLib.pdb
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.dll
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/ref/MonitoringLib.dll
+/home/bekmurod/csharp/csharpPractice/Performance/MonitoringLib/obj/Debug/net5.0/MonitoringLib.pdb
