@@ -1,0 +1,15 @@
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csprojAssemblyReference.cache
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfoInputs.cache
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfo.cs
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CoreCompileInputs.cache
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.deps.json
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.dll
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.pdb
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CopyComplete
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.dll
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/bekmurod/csharp/csharpPractice/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.pdb
